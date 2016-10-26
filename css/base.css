@@ -1,0 +1,31 @@
+.producto {
+	margin:0 5px;
+}
+
+.ocultar {
+	opacity:0.4;
+}
+
+.producto .imagen {
+	text-align: center;
+	padding: 13px 0;
+	border: solid 0.5px;
+}
+
+.producto p{
+	font-size: 12px;
+}
+
+.producto .precio{
+	font-weight: bold;
+	font-size: 25px;
+	border-bottom: 0.5px solid;
+	text-align: right;
+	margin-bottom: 19px;
+}
+
+.carrito {
+	border: solid 0.5px silver;
+	padding: 10px;
+	border-radius: 7px;
+}
